@@ -5,7 +5,7 @@ A modern job portal application built with the MERN stack (MongoDB, Express, Rea
 
 
 
-## ✨ Features
+## 📋 Features
 
 **Recruiters/Companies:**
 - Create and manage job postings
@@ -25,7 +25,7 @@ A modern job portal application built with the MERN stack (MongoDB, Express, Rea
 - File uploads via Cloudinary
 - Responsive UI with Tailwind CSS
 - RESTful API with JWT authentication
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:**
 - React (Vite)
@@ -46,14 +46,14 @@ A modern job portal application built with the MERN stack (MongoDB, Express, Rea
 - Clerk (Authentication)
 - Sentry (Error Tracking)
 - Cloudinary (File Storage)
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
 - MongoDB Atlas account
 - Clerk, Sentry, and Cloudinary accounts
 
-### Installation
+### 🚀 Installation
 
 1. **Clone the repository**
    ```bash
@@ -105,6 +105,6 @@ Create .env files in both client/ and server/ directories:
 
 
 
- ## 📄 License 
+ ##  📜 License 
 This project is licensed for **personal, non-commercial use only**.
 Commercial use, including but not limited to incorporating this code into proprietary software or services, is strictly prohibited without prior written consent.
