@@ -109,7 +109,7 @@ Create .env files in both client/ and server/ directories:
 
 
 
-📄 License
+ ## 📄 License 
 This project is licensed for **personal, non-commercial use only**.
 Commercial use, including but not limited to incorporating this code into proprietary software or services, is strictly prohibited without prior written consent.
 Any unauthorized commercial use may result in legal action.
