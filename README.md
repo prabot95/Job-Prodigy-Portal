@@ -46,14 +46,14 @@ A modern job portal application built with the MERN stack (MongoDB, Express, Rea
 - Clerk (Authentication)
 - Sentry (Error Tracking)
 - Cloudinary (File Storage)
-##  Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
 - MongoDB Atlas account
 - Clerk, Sentry, and Cloudinary accounts
 
-### 🚀 Installation
+### Installation
 
 1. **Clone the repository**
    ```bash
