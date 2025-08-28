@@ -108,20 +108,6 @@ Create .env files in both client/ and server/ directories:
 * npm run dev
 
 
-## 🚀 Contributions
-
-Contributions are welcome! Please follow these steps:
-
-**Fork the repository**
-
-* Create your feature branch (git checkout -b feature/AmazingFeature)
-
-* Commit your changes (git commit -m 'Add some AmazingFeature')
-
-* Push to the branch (git push origin feature/AmazingFeature)
-
-* Open a Pull Request.
-
 
 📄 License
 This project is licensed for **personal, non-commercial use only**.
